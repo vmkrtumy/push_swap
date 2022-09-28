@@ -93,5 +93,5 @@ int *result_array(int *res_array, int *sorted)
         }
         i++;
     }
-    return (result_arr);
+    return (index_arr);
 }
