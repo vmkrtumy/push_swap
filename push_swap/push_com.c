@@ -1,5 +1,0 @@
-void    pa()
-{}
-
-void    pb()
-{}
